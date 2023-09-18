@@ -11,3 +11,7 @@ This project is about developing an e-commerce website for haayaashop, a childre
 **Themes** : Theme changes the design of your website, often including its layout. Changing your theme changes how your site looks on the front-end.  <a href= "https://developer.wordpress.org/themes/getting-started/what-is-a-theme/"> Theme 
 
 **WooCommerce** : An ecommerce plugin that works with WordPress. <a href= "https://www.nexcess.net/blog/10-reasons-to-choose-woocommerce/#:~:text=WooCommerce%20is%20an%20ecommerce%20plugin%20that%20works%20with%20WordPress.,free%20and%20easy%20to%20use."> WooCommerce
+
+**User registration** : User registration in WordPress refers to the process by which individuals can create accounts and become registered users on a WordPress-powered website. <a href= "https://themeisle.com/blog/user-registration-in-wordpress/#gref"> User registration
+
+**Product** : Simply an individual physical commodity (electronic device, shoes, or anything similar.) <a href= "https://wpastra.com/woocommerce-tutorial/add-woocommerce-products/#:~:text=A%20simple%20product%20is%20simply,product%20is%20a%20straightforward%20process."> Product
