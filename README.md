@@ -15,3 +15,5 @@ This project is about developing an e-commerce website for haayaashop, a childre
 **User registration** : User registration in WordPress refers to the process by which individuals can create accounts and become registered users on a WordPress-powered website. <a href= "https://themeisle.com/blog/user-registration-in-wordpress/#gref"> User registration
 
 **Product** : Simply an individual physical commodity (electronic device, shoes, or anything similar.) <a href= "https://wpastra.com/woocommerce-tutorial/add-woocommerce-products/#:~:text=A%20simple%20product%20is%20simply,product%20is%20a%20straightforward%20process."> Product
+
+# Review
