@@ -20,6 +20,7 @@ This project is about developing an e-commerce website for haayaashop, a childre
 
 ## OBJECTIVE
 1.To design and develop your own store website.
+
 2.For convenience and ease for users.
 
 ## SOFTWARE AND HARDWARE REQUIREMENTS
