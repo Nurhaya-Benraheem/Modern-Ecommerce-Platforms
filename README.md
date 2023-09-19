@@ -19,12 +19,12 @@ This project is about developing an e-commerce website for haayaashop, a childre
 
 **Product** : Simply an individual physical commodity (electronic device, shoes, or anything similar.) <a href= "https://wpastra.com/woocommerce-tutorial/add-woocommerce-products/#:~:text=A%20simple%20product%20is%20simply,product%20is%20a%20straightforward%20process."> Product
 
-## OBJECTIVE
+### OBJECTIVE
 1.To design and develop your own store website.
 
 2.For convenience and ease for users.
 
-## SOFTWARE AND HARDWARE REQUIREMENTS
+### SOFTWARE AND HARDWARE REQUIREMENTS
 
 **SOFTWARE**
 - Web Server
