@@ -16,7 +16,7 @@ In today's digital age, the way we shop has undergone a significant transformati
 
 **Jetpack** : provides powerful, easy-to-use WordPress security that protects your site from hackers and malware. <a href= "https://jetpack.com/blog/what-is-the-jetpack-plugin/#:~:text=Jetpack%20provides%20powerful%2C%20easy%2Dto,Spam%20prevention%20tools"> Jetpack
 
-**MailPoet** : Use MailPoet to create, send, manage, and grow your email marketing campaigns – all without leaving your WordPress dashboard. <a href= "https://wordpress.org/plugins/mailpoet/#:~:text=Description,without%20leaving%20your%20WordPress%20dashboard."> MailPoet
+**MailPoet** : Use MailPoet to create, send, manage, and grow your email marketing campaigns all without leaving your WordPress dashboard. <a href= "https://wordpress.org/plugins/mailpoet/#:~:text=Description,without%20leaving%20your%20WordPress%20dashboard."> MailPoet
 
 **Simple WordPress Membership** : lets you publish exclusive content, sell membership subscriptions, and accept payments from members. <a href= "https://barn2.com/blog/simple-wordpress-membership/#:~:text=A%20simple%20WordPress%20membership%20plugin,be%20overkill%20for%20your%20needs."> Simple WordPress Membership
 
@@ -64,7 +64,7 @@ Web shop can help you understand the key concepts, theories, and best practices 
 My project uses BPMN diagrams to summarize the key processes step-by-step of my website to provide insights into user experience and functionality.
 
 <p float="left">
- <img src="img/BPMN.png" alt="image"  width="70%"/> 
+ <img src="img/BPMN.png" alt="image"  width="80%"/> 
 </p>
 The first step is to design the entire functionality of the website and how it will work both internally and externally using BPMN as the core, with the customer, system, admin, bank, deliverables.
 
@@ -91,58 +91,77 @@ Customer activity on our website
  <img src="img/cart.png" alt="image"  width="50%"/> 
 </p>
 
-- **Checkout :**
+- **Checkout :** Customers fill in shipping details along with Payment.
+
 <p float="left">
  <img src="img/checkout.png" alt="image"  width="50%"/> 
 </p>
 
-- **Payment :**
+- **Payment :** You can choose from 2 payment channels: Transfer,  COD (Cash On Deliver).
+
 <p float="left">
  <img src="img/pay.png" alt="image"  width="50%"/> 
 </p>
 
-- **Review order :**
+- **Review order :** Customers can check the status of their orders whether they are successful or not through this page.
+
 <p float="left">
  <img src="img/checkout1.png" alt="image"  width="50%"/> 
 </p>
 
-- **Check order status :**
+- **Check order status :** once the product has been dispatched, customers can check the status of their order.
 
-- **Recieve the product :**
+- **Recieve the product :** the transport has successfully delivered the product.
 
 ### System
 <p float="left">
  <img src="img/System.png" alt="image"  width="70%"/> 
 </p>
 
-- **Receive the order :**
+- **Receive the order :** this represents the point at which customer order details are sent for processing.
 
-- **order status :**
+- **order status :** to show on website about order status that the customer will check such as pending payment, processing, completed, or cancelled.
 
-- **Creat a packing Slips :**
+<p float="left">
+ <img src="img/status.png" alt="image"  width="50%"/> 
+</p>
+
+- **Creat a packing Slips :** Website will generate packing slip for shipping.
+
+<p float="left">
+ <img src="img/Packing Slip1.png" alt="image"  width="50%"/> 
+</p>
+
+- **Creat a Invoic :** This task for customer who need a invoice.
+
+<p float="left">
+ <img src="img/Packing Slip.png" alt="image"  width="50%"/> 
+</p>
 
 ### Admin
 <p float="left">
  <img src="img/admin.png" alt="image"  width="70%"/> 
 </p>
 
-- **Add Product :**
+- **Add Product :** This task represents the process of adding a new product to your e-commerce store's catalog. It includes entering product details, assigning categories, and setting pricing.
+
 <p float="left">
  <img src="img/product.png" alt="image"  width="50%"/> 
 </p>
 
-- **Update Product :**
+- **Update Product :**  This task allows admins to modify existing product details, such as descriptions, prices, or images. It's used for maintaining accurate product information.
 
-- **Check order :**
+- **Check order :**  Admin will check the order list to see if there are any new orders or not. If there is a new order, the admin will go to the next task.
+
 <p float="left">
  <img src="img/checkdata.png" alt="image"  width="50%"/> 
 </p>
 
-- **Check stock :**
+- **Check stock :** admin will check stock. If have product enough, It will go to next process (Prepare order for shipping process). If out of stock, the order will cancel.
 
-- **Prepare order :**
+- **Prepare order :** this task is to prepare product for shipping or pack items properly for delivery.
 
-- **Ship Order :**
+- **Ship Order :**  This process is about sent product to deliver.
 
 
 # METHODOLOGY
